@@ -115,3 +115,9 @@ The experiment successfully demonstrated an autonomous palletizing framework int
 1. Ultralytics, "YOLOv8 Documentation," https://docs.ultralytics.com/
 2. Z. Materna, "pydobot2: Python library for Dobot Magician," https://pypi.org/project/pydobot2/
 3. Dobot, "Dobot Magician Lite User Manual"
+
+## Demo Images
+
+![Robot Setup with Object Cards](setup.png)
+
+![Robot in Action](demo.png)
